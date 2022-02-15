@@ -1,4 +1,3 @@
-import shelve
 
 result = 0
 arg = []
